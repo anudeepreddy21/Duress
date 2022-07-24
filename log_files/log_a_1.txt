@@ -1,0 +1,268 @@
+DURESS SIMULATION LOGFILE
+
+-------------------------
+
+Date: Tue Jul 19 01:57:38 CDT 2022
+
+Subject: a
+Trial #: 1
+
+Scenario: Sample.cf
+
+Interface Type: Physical
+
+-------------------------
+
+Time	VA	VA1	VA2	VB	VB1	VB2	VO1	VO2	PA	PB	H1	H2	R1	R2	SteadyTime
+0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+300	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+400	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+700	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+800	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+900	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1300	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1400	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1700	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1800	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1900	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2000	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2100	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2200	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2300	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2400	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2500	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2600	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2700	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2800	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2900	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3000	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3100	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3200	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3300	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3400	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3500	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3600	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3700	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3800	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3900	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4000	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4100	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4200	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4300	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4400	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4500	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4600	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4700	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4800	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4900	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5000	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5100	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5200	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5300	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5400	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5500	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5600	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5700	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5800	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5900	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6000	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6100	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6200	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6300	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6400	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6500	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6600	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6700	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6800	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6900	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7000	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7100	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7200	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7300	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7400	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7500	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7600	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7700	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7800	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7900	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8000	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8100	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8200	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8300	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8400	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8500	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8600	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8700	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8800	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8900	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9000	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9100	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9200	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9300	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9400	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9500	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9600	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9700	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9800	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9900	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10000	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10100	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10200	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10300	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10400	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10500	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10600	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10700	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10800	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10900	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11000	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11100	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11200	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11300	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11400	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11500	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11600	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11700	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11800	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11900	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12000	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12100	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12200	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12300	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12400	8.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+TERMINATION: PA blew up because valves were closed.
+

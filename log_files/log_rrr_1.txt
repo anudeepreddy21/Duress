@@ -1,0 +1,2296 @@
+DURESS SIMULATION LOGFILE
+
+-------------------------
+
+Date: Wed Jul 13 00:24:01 CDT 2022
+
+Subject: rrr
+Trial #: 1
+
+Scenario: Sample.cf
+
+Interface Type: Physical
+
+-------------------------
+
+Time	VA	VA1	VA2	VB	VB1	VB2	VO1	VO2	PA	PB	H1	H2	R1	R2	SteadyTime
+0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+300	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+400	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+700	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+800	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+900	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1300	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1400	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1700	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1800	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+1900	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2300	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2400	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2700	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2800	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+2900	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3300	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3400	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3700	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3800	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+3900	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4300	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4400	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4700	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4800	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+4900	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5300	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5400	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5700	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5800	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+5900	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6200	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6300	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6400	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6500	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6600	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6700	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6800	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+6900	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7000	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7100	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7200	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7300	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7400	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7500	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7600	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7700	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7800	0.0	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+7900	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8000	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8100	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8200	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8300	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8400	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8500	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8600	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8700	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8800	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+8900	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9000	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9100	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9200	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9300	5.7	6.4	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9400	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9500	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9600	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9700	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9800	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+9900	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10000	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10100	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10200	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10300	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10400	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10500	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10600	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10700	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10800	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+10900	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11000	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11100	5.7	6.4	0.0	5.7	0.0	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11200	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11300	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11400	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11500	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11600	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11700	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11800	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+11900	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12000	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12100	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12200	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12300	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12400	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12500	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12600	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12700	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12800	5.7	6.4	0.0	5.7	4.7	0.0	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+12900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+13000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+13100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+13200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+13300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+13400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+13500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+13600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+13700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+13800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+13900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+14000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+14100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+14200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+14300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+14400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+14500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+14600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+14700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+14800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+14900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+15000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+15100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+15200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+15300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+15400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+15500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+15600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+15700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+15800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+15900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+16000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+16100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+16200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+16300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+16400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+16500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+16600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+16700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+16800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+16900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+17000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+17100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+17200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+17300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+17400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+17500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+17600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+17700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+17800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+17900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+18000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+18100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+18200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	0	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+18300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0	0	0
+Hi this is where you enter your steps
+18400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00001	0	0
+Hi this is where you enter your steps
+18500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00003	0	0
+Hi this is where you enter your steps
+18600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00006	0	0
+Hi this is where you enter your steps
+18700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0001	0	0
+Hi this is where you enter your steps
+18800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00015	0	0
+Hi this is where you enter your steps
+18900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0002	0	0
+Hi this is where you enter your steps
+19000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00027	0	0
+Hi this is where you enter your steps
+19100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00035	0	0
+Hi this is where you enter your steps
+19200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00043	0	0
+Hi this is where you enter your steps
+19300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00052	0	0
+Hi this is where you enter your steps
+19400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00063	0	0
+Hi this is where you enter your steps
+19500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00074	0	0
+Hi this is where you enter your steps
+19600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00085	0	0
+Hi this is where you enter your steps
+19700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00098	0	0
+Hi this is where you enter your steps
+19800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00111	0	0
+Hi this is where you enter your steps
+19900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00125	0	0
+Hi this is where you enter your steps
+20000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0014	0	0
+Hi this is where you enter your steps
+20100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00156	0	0
+Hi this is where you enter your steps
+20200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00172	0	0
+Hi this is where you enter your steps
+20300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00189	0	0
+Hi this is where you enter your steps
+20400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00207	0	0
+Hi this is where you enter your steps
+20500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00226	0	0
+Hi this is where you enter your steps
+20600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00245	0	0
+Hi this is where you enter your steps
+20700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00265	0	0
+Hi this is where you enter your steps
+20800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00285	0	0
+Hi this is where you enter your steps
+20900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00306	0	0
+Hi this is where you enter your steps
+21000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00328	0	0
+Hi this is where you enter your steps
+21100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0035	0	0
+Hi this is where you enter your steps
+21200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00373	0	0
+Hi this is where you enter your steps
+21300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00397	0	0
+Hi this is where you enter your steps
+21400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00421	0	0
+Hi this is where you enter your steps
+21500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00446	0	0
+Hi this is where you enter your steps
+21600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00471	0	0
+Hi this is where you enter your steps
+21700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00497	0	0
+Hi this is where you enter your steps
+21800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00524	0	0
+Hi this is where you enter your steps
+21900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00551	0	0
+Hi this is where you enter your steps
+22000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00578	0	0
+Hi this is where you enter your steps
+22100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00607	0	0
+Hi this is where you enter your steps
+22200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00635	0	0
+Hi this is where you enter your steps
+22300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00664	0	0
+Hi this is where you enter your steps
+22400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00694	0	0
+Hi this is where you enter your steps
+22500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00724	0	0
+Hi this is where you enter your steps
+22600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00755	0	0
+Hi this is where you enter your steps
+22700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00786	0	0
+Hi this is where you enter your steps
+22800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00817	0	0
+Hi this is where you enter your steps
+22900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00849	0	0
+Hi this is where you enter your steps
+23000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00881	0	0
+Hi this is where you enter your steps
+23100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00914	0	0
+Hi this is where you enter your steps
+23200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00948	0	0
+Hi this is where you enter your steps
+23300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.00981	0	0
+Hi this is where you enter your steps
+23400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01015	0	0
+Hi this is where you enter your steps
+23500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0105	0	0
+Hi this is where you enter your steps
+23600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01085	0	0
+Hi this is where you enter your steps
+23700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0112	0	0
+Hi this is where you enter your steps
+23800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01156	0	0
+Hi this is where you enter your steps
+23900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01192	0	0
+Hi this is where you enter your steps
+24000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01228	0	0
+Hi this is where you enter your steps
+24100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01265	0	0
+Hi this is where you enter your steps
+24200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01303	0	0
+Hi this is where you enter your steps
+24300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0134	0	0
+Hi this is where you enter your steps
+24400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01378	0	0
+Hi this is where you enter your steps
+24500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01416	0	0
+Hi this is where you enter your steps
+24600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01455	0	0
+Hi this is where you enter your steps
+24700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01494	0	0
+Hi this is where you enter your steps
+24800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01533	0	0
+Hi this is where you enter your steps
+24900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01572	0	0
+Hi this is where you enter your steps
+25000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01612	0	0
+Hi this is where you enter your steps
+25100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01653	0	0
+Hi this is where you enter your steps
+25200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01693	0	0
+Hi this is where you enter your steps
+25300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01734	0	0
+Hi this is where you enter your steps
+25400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01775	0	0
+Hi this is where you enter your steps
+25500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01816	0	0
+Hi this is where you enter your steps
+25600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01858	0	0
+Hi this is where you enter your steps
+25700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.019	0	0
+Hi this is where you enter your steps
+25800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01942	0	0
+Hi this is where you enter your steps
+25900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.01984	0	0
+Hi this is where you enter your steps
+26000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02027	0	0
+Hi this is where you enter your steps
+26100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0207	0	0
+Hi this is where you enter your steps
+26200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02113	0	0
+Hi this is where you enter your steps
+26300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02157	0	0
+Hi this is where you enter your steps
+26400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.022	0	0
+Hi this is where you enter your steps
+26500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02244	0	0
+Hi this is where you enter your steps
+26600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02288	0	0
+Hi this is where you enter your steps
+26700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02333	0	0
+Hi this is where you enter your steps
+26800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02378	0	0
+Hi this is where you enter your steps
+26900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02422	0	0
+Hi this is where you enter your steps
+27000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02467	0	0
+Hi this is where you enter your steps
+27100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02513	0	0
+Hi this is where you enter your steps
+27200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02558	0	0
+Hi this is where you enter your steps
+27300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02604	0	0
+Hi this is where you enter your steps
+27400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0265	0	0
+Hi this is where you enter your steps
+27500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02696	0	0
+Hi this is where you enter your steps
+27600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02742	0	0
+Hi this is where you enter your steps
+27700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02789	0	0
+Hi this is where you enter your steps
+27800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02835	0	0
+Hi this is where you enter your steps
+27900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02882	0	0
+Hi this is where you enter your steps
+28000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02929	0	0
+Hi this is where you enter your steps
+28100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.02977	0	0
+Hi this is where you enter your steps
+28200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03024	0	0
+Hi this is where you enter your steps
+28300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03072	0	0
+Hi this is where you enter your steps
+28400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03119	0	0
+Hi this is where you enter your steps
+28500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03167	0	0
+Hi this is where you enter your steps
+28600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03215	0	0
+Hi this is where you enter your steps
+28700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03264	0	0
+Hi this is where you enter your steps
+28800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03312	0	0
+Hi this is where you enter your steps
+28900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03361	0	0
+Hi this is where you enter your steps
+29000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03409	0	0
+Hi this is where you enter your steps
+29100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03458	0	0
+Hi this is where you enter your steps
+29200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03507	0	0
+Hi this is where you enter your steps
+29300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03556	0	0
+Hi this is where you enter your steps
+29400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03606	0	0
+Hi this is where you enter your steps
+29500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03655	0	0
+Hi this is where you enter your steps
+29600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03705	0	0
+Hi this is where you enter your steps
+29700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03755	0	0
+Hi this is where you enter your steps
+29800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03804	0	0
+Hi this is where you enter your steps
+29900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03854	0	0
+Hi this is where you enter your steps
+30000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03904	0	0
+Hi this is where you enter your steps
+30100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.03955	0	0
+Hi this is where you enter your steps
+30200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04005	0	0
+Hi this is where you enter your steps
+30300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04055	0	0
+Hi this is where you enter your steps
+30400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04106	0	0
+Hi this is where you enter your steps
+30500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04157	0	0
+Hi this is where you enter your steps
+30600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04208	0	0
+Hi this is where you enter your steps
+30700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04259	0	0
+Hi this is where you enter your steps
+30800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0431	0	0
+Hi this is where you enter your steps
+30900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04361	0	0
+Hi this is where you enter your steps
+31000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04412	0	0
+Hi this is where you enter your steps
+31100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04463	0	0
+Hi this is where you enter your steps
+31200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04515	0	0
+Hi this is where you enter your steps
+31300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04566	0	0
+Hi this is where you enter your steps
+31400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04618	0	0
+Hi this is where you enter your steps
+31500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0467	0	0
+Hi this is where you enter your steps
+31600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04722	0	0
+Hi this is where you enter your steps
+31700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04774	0	0
+Hi this is where you enter your steps
+31800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04826	0	0
+Hi this is where you enter your steps
+31900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04878	0	0
+Hi this is where you enter your steps
+32000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0493	0	0
+Hi this is where you enter your steps
+32100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.04982	0	0
+Hi this is where you enter your steps
+32200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05035	0	0
+Hi this is where you enter your steps
+32300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05087	0	0
+Hi this is where you enter your steps
+32400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0514	0	0
+Hi this is where you enter your steps
+32500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05192	0	0
+Hi this is where you enter your steps
+32600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05245	0	0
+Hi this is where you enter your steps
+32700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05298	0	0
+Hi this is where you enter your steps
+32800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05351	0	0
+Hi this is where you enter your steps
+32900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05404	0	0
+Hi this is where you enter your steps
+33000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05457	0	0
+Hi this is where you enter your steps
+33100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0551	0	0
+Hi this is where you enter your steps
+33200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05563	0	0
+Hi this is where you enter your steps
+33300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05616	0	0
+Hi this is where you enter your steps
+33400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0567	0	0
+Hi this is where you enter your steps
+33500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05723	0	0
+Hi this is where you enter your steps
+33600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05776	0	0
+Hi this is where you enter your steps
+33700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0583	0	0
+Hi this is where you enter your steps
+33800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05883	0	0
+Hi this is where you enter your steps
+33900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05937	0	0
+Hi this is where you enter your steps
+34000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.05991	0	0
+Hi this is where you enter your steps
+34100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06045	0	0
+Hi this is where you enter your steps
+34200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06098	0	0
+Hi this is where you enter your steps
+34300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06152	0	0
+Hi this is where you enter your steps
+34400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06206	0	0
+Hi this is where you enter your steps
+34500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0626	0	0
+Hi this is where you enter your steps
+34600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06314	0	0
+Hi this is where you enter your steps
+34700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06368	0	0
+Hi this is where you enter your steps
+34800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06422	0	0
+Hi this is where you enter your steps
+34900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06477	0	0
+Hi this is where you enter your steps
+35000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06531	0	0
+Hi this is where you enter your steps
+35100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06585	0	0
+Hi this is where you enter your steps
+35200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06639	0	0
+Hi this is where you enter your steps
+35300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06694	0	0
+Hi this is where you enter your steps
+35400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06748	0	0
+Hi this is where you enter your steps
+35500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06803	0	0
+Hi this is where you enter your steps
+35600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06857	0	0
+Hi this is where you enter your steps
+35700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06912	0	0
+Hi this is where you enter your steps
+35800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.06967	0	0
+Hi this is where you enter your steps
+35900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07021	0	0
+Hi this is where you enter your steps
+36000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07076	0	0
+Hi this is where you enter your steps
+36100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07131	0	0
+Hi this is where you enter your steps
+36200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07185	0	0
+Hi this is where you enter your steps
+36300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0724	0	0
+Hi this is where you enter your steps
+36400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07295	0	0
+Hi this is where you enter your steps
+36500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0735	0	0
+Hi this is where you enter your steps
+36600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07405	0	0
+Hi this is where you enter your steps
+36700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0746	0	0
+Hi this is where you enter your steps
+36800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07515	0	0
+Hi this is where you enter your steps
+36900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0757	0	0
+Hi this is where you enter your steps
+37000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07625	0	0
+Hi this is where you enter your steps
+37100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0768	0	0
+Hi this is where you enter your steps
+37200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07736	0	0
+Hi this is where you enter your steps
+37300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07791	0	0
+Hi this is where you enter your steps
+37400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07846	0	0
+Hi this is where you enter your steps
+37500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07901	0	0
+Hi this is where you enter your steps
+37600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.07957	0	0
+Hi this is where you enter your steps
+37700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08012	0	0
+Hi this is where you enter your steps
+37800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08067	0	0
+Hi this is where you enter your steps
+37900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08123	0	0
+Hi this is where you enter your steps
+38000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08178	0	0
+Hi this is where you enter your steps
+38100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08234	0	0
+Hi this is where you enter your steps
+38200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08289	0	0
+Hi this is where you enter your steps
+38300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08345	0	0
+Hi this is where you enter your steps
+38400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.084	0	0
+Hi this is where you enter your steps
+38500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08456	0	0
+Hi this is where you enter your steps
+38600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08511	0	0
+Hi this is where you enter your steps
+38700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08567	0	0
+Hi this is where you enter your steps
+38800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08622	0	0
+Hi this is where you enter your steps
+38900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08678	0	0
+Hi this is where you enter your steps
+39000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08734	0	0
+Hi this is where you enter your steps
+39100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0879	0	0
+Hi this is where you enter your steps
+39200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08845	0	0
+Hi this is where you enter your steps
+39300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08901	0	0
+Hi this is where you enter your steps
+39400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.08957	0	0
+Hi this is where you enter your steps
+39500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09013	0	0
+Hi this is where you enter your steps
+39600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09068	0	0
+Hi this is where you enter your steps
+39700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09124	0	0
+Hi this is where you enter your steps
+39800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0918	0	0
+Hi this is where you enter your steps
+39900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09236	0	0
+Hi this is where you enter your steps
+40000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09292	0	0
+Hi this is where you enter your steps
+40100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09348	0	0
+Hi this is where you enter your steps
+40200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09404	0	0
+Hi this is where you enter your steps
+40300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0946	0	0
+Hi this is where you enter your steps
+40400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09516	0	0
+Hi this is where you enter your steps
+40500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09572	0	0
+Hi this is where you enter your steps
+40600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09628	0	0
+Hi this is where you enter your steps
+40700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09684	0	0
+Hi this is where you enter your steps
+40800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.0974	0	0
+Hi this is where you enter your steps
+40900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09796	0	0
+Hi this is where you enter your steps
+41000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09852	0	0
+Hi this is where you enter your steps
+41100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09908	0	0
+Hi this is where you enter your steps
+41200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.09964	0	0
+Hi this is where you enter your steps
+41300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10021	0	0
+Hi this is where you enter your steps
+41400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10077	0	0
+Hi this is where you enter your steps
+41500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10133	0	0
+Hi this is where you enter your steps
+41600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10189	0	0
+Hi this is where you enter your steps
+41700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10245	0	0
+Hi this is where you enter your steps
+41800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10301	0	0
+Hi this is where you enter your steps
+41900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10358	0	0
+Hi this is where you enter your steps
+42000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10414	0	0
+Hi this is where you enter your steps
+42100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1047	0	0
+Hi this is where you enter your steps
+42200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10526	0	0
+Hi this is where you enter your steps
+42300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10583	0	0
+Hi this is where you enter your steps
+42400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10639	0	0
+Hi this is where you enter your steps
+42500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10695	0	0
+Hi this is where you enter your steps
+42600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10752	0	0
+Hi this is where you enter your steps
+42700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10808	0	0
+Hi this is where you enter your steps
+42800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10864	0	0
+Hi this is where you enter your steps
+42900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10921	0	0
+Hi this is where you enter your steps
+43000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.10977	0	0
+Hi this is where you enter your steps
+43100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11034	0	0
+Hi this is where you enter your steps
+43200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1109	0	0
+Hi this is where you enter your steps
+43300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11146	0	0
+Hi this is where you enter your steps
+43400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11203	0	0
+Hi this is where you enter your steps
+43500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11259	0	0
+Hi this is where you enter your steps
+43600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11316	0	0
+Hi this is where you enter your steps
+43700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11372	0	0
+Hi this is where you enter your steps
+43800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11429	0	0
+Hi this is where you enter your steps
+43900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11485	0	0
+Hi this is where you enter your steps
+44000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11542	0	0
+Hi this is where you enter your steps
+44100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11598	0	0
+Hi this is where you enter your steps
+44200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11655	0	0
+Hi this is where you enter your steps
+44300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11711	0	0
+Hi this is where you enter your steps
+44400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11768	0	0
+Hi this is where you enter your steps
+44500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11824	0	0
+Hi this is where you enter your steps
+44600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11881	0	0
+Hi this is where you enter your steps
+44700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11937	0	0
+Hi this is where you enter your steps
+44800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.11994	0	0
+Hi this is where you enter your steps
+44900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1205	0	0
+Hi this is where you enter your steps
+45000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.12107	0	0
+Hi this is where you enter your steps
+45100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.12163	0	0
+Hi this is where you enter your steps
+45200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1222	0	0
+Hi this is where you enter your steps
+45300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.12277	0	0
+Hi this is where you enter your steps
+45400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.12333	0	0
+Hi this is where you enter your steps
+45500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1239	0	0
+Hi this is where you enter your steps
+45600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.12446	0	0
+Hi this is where you enter your steps
+45700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.12503	0	0
+Hi this is where you enter your steps
+45800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1256	0	0
+Hi this is where you enter your steps
+45900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.12616	0	0
+Hi this is where you enter your steps
+46000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.12673	0	0
+Hi this is where you enter your steps
+46100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1273	0	0
+Hi this is where you enter your steps
+46200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.12786	0	0
+Hi this is where you enter your steps
+46300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.12843	0	0
+Hi this is where you enter your steps
+46400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.129	0	0
+Hi this is where you enter your steps
+46500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.12956	0	0
+Hi this is where you enter your steps
+46600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13013	0	0
+Hi this is where you enter your steps
+46700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1307	0	0
+Hi this is where you enter your steps
+46800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13126	0	0
+Hi this is where you enter your steps
+46900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13183	0	0
+Hi this is where you enter your steps
+47000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1324	0	0
+Hi this is where you enter your steps
+47100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13297	0	0
+Hi this is where you enter your steps
+47200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13353	0	0
+Hi this is where you enter your steps
+47300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1341	0	0
+Hi this is where you enter your steps
+47400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13467	0	0
+Hi this is where you enter your steps
+47500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13523	0	0
+Hi this is where you enter your steps
+47600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1358	0	0
+Hi this is where you enter your steps
+47700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13637	0	0
+Hi this is where you enter your steps
+47800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13694	0	0
+Hi this is where you enter your steps
+47900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1375	0	0
+Hi this is where you enter your steps
+48000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13807	0	0
+Hi this is where you enter your steps
+48100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13864	0	0
+Hi this is where you enter your steps
+48200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13921	0	0
+Hi this is where you enter your steps
+48300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.13977	0	0
+Hi this is where you enter your steps
+48400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14034	0	0
+Hi this is where you enter your steps
+48500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14091	0	0
+Hi this is where you enter your steps
+48600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14148	0	0
+Hi this is where you enter your steps
+48700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14205	0	0
+Hi this is where you enter your steps
+48800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14261	0	0
+Hi this is where you enter your steps
+48900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14318	0	0
+Hi this is where you enter your steps
+49000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14375	0	0
+Hi this is where you enter your steps
+49100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14432	0	0
+Hi this is where you enter your steps
+49200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14489	0	0
+Hi this is where you enter your steps
+49300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14545	0	0
+Hi this is where you enter your steps
+49400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14602	0	0
+Hi this is where you enter your steps
+49500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14659	0	0
+Hi this is where you enter your steps
+49600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14716	0	0
+Hi this is where you enter your steps
+49700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14773	0	0
+Hi this is where you enter your steps
+49800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14829	0	0
+Hi this is where you enter your steps
+49900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14886	0	0
+Hi this is where you enter your steps
+50000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.14943	0	0
+Hi this is where you enter your steps
+50100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15	0	0
+Hi this is where you enter your steps
+50200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15057	0	0
+Hi this is where you enter your steps
+50300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15114	0	0
+Hi this is where you enter your steps
+50400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1517	0	0
+Hi this is where you enter your steps
+50500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15227	0	0
+Hi this is where you enter your steps
+50600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15284	0	0
+Hi this is where you enter your steps
+50700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15341	0	0
+Hi this is where you enter your steps
+50800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15398	0	0
+Hi this is where you enter your steps
+50900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15455	0	0
+Hi this is where you enter your steps
+51000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15512	0	0
+Hi this is where you enter your steps
+51100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15568	0	0
+Hi this is where you enter your steps
+51200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15625	0	0
+Hi this is where you enter your steps
+51300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15682	0	0
+Hi this is where you enter your steps
+51400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15739	0	0
+Hi this is where you enter your steps
+51500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15796	0	0
+Hi this is where you enter your steps
+51600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15853	0	0
+Hi this is where you enter your steps
+51700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1591	0	0
+Hi this is where you enter your steps
+51800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.15967	0	0
+Hi this is where you enter your steps
+51900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16023	0	0
+Hi this is where you enter your steps
+52000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1608	0	0
+Hi this is where you enter your steps
+52100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16137	0	0
+Hi this is where you enter your steps
+52200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16194	0	0
+Hi this is where you enter your steps
+52300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16251	0	0
+Hi this is where you enter your steps
+52400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16308	0	0
+Hi this is where you enter your steps
+52500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16365	0	0
+Hi this is where you enter your steps
+52600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16422	0	0
+Hi this is where you enter your steps
+52700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16479	0	0
+Hi this is where you enter your steps
+52800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16536	0	0
+Hi this is where you enter your steps
+52900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16592	0	0
+Hi this is where you enter your steps
+53000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16649	0	0
+Hi this is where you enter your steps
+53100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16706	0	0
+Hi this is where you enter your steps
+53200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16763	0	0
+Hi this is where you enter your steps
+53300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1682	0	0
+Hi this is where you enter your steps
+53400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16877	0	0
+Hi this is where you enter your steps
+53500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16934	0	0
+Hi this is where you enter your steps
+53600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.16991	0	0
+Hi this is where you enter your steps
+53700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17048	0	0
+Hi this is where you enter your steps
+53800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17105	0	0
+Hi this is where you enter your steps
+53900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17162	0	0
+Hi this is where you enter your steps
+54000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17218	0	0
+Hi this is where you enter your steps
+54100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17275	0	0
+Hi this is where you enter your steps
+54200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17332	0	0
+Hi this is where you enter your steps
+54300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17389	0	0
+Hi this is where you enter your steps
+54400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17446	0	0
+Hi this is where you enter your steps
+54500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17503	0	0
+Hi this is where you enter your steps
+54600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1756	0	0
+Hi this is where you enter your steps
+54700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17617	0	0
+Hi this is where you enter your steps
+54800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17674	0	0
+Hi this is where you enter your steps
+54900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17731	0	0
+Hi this is where you enter your steps
+55000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17788	0	0
+Hi this is where you enter your steps
+55100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17845	0	0
+Hi this is where you enter your steps
+55200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17902	0	0
+Hi this is where you enter your steps
+55300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.17959	0	0
+Hi this is where you enter your steps
+55400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18015	0	0
+Hi this is where you enter your steps
+55500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18072	0	0
+Hi this is where you enter your steps
+55600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18129	0	0
+Hi this is where you enter your steps
+55700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18186	0	0
+Hi this is where you enter your steps
+55800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18243	0	0
+Hi this is where you enter your steps
+55900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.183	0	0
+Hi this is where you enter your steps
+56000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18357	0	0
+Hi this is where you enter your steps
+56100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18414	0	0
+Hi this is where you enter your steps
+56200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18471	0	0
+Hi this is where you enter your steps
+56300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18528	0	0
+Hi this is where you enter your steps
+56400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18585	0	0
+Hi this is where you enter your steps
+56500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18642	0	0
+Hi this is where you enter your steps
+56600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18699	0	0
+Hi this is where you enter your steps
+56700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18756	0	0
+Hi this is where you enter your steps
+56800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18813	0	0
+Hi this is where you enter your steps
+56900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1887	0	0
+Hi this is where you enter your steps
+57000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18927	0	0
+Hi this is where you enter your steps
+57100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.18984	0	0
+Hi this is where you enter your steps
+57200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19041	0	0
+Hi this is where you enter your steps
+57300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19098	0	0
+Hi this is where you enter your steps
+57400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19155	0	0
+Hi this is where you enter your steps
+57500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19211	0	0
+Hi this is where you enter your steps
+57600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19268	0	0
+Hi this is where you enter your steps
+57700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19325	0	0
+Hi this is where you enter your steps
+57800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19382	0	0
+Hi this is where you enter your steps
+57900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19439	0	0
+Hi this is where you enter your steps
+58000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19496	0	0
+Hi this is where you enter your steps
+58100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19553	0	0
+Hi this is where you enter your steps
+58200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.1961	0	0
+Hi this is where you enter your steps
+58300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19667	0	0
+Hi this is where you enter your steps
+58400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19724	0	0
+Hi this is where you enter your steps
+58500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19781	0	0
+Hi this is where you enter your steps
+58600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19838	0	0
+Hi this is where you enter your steps
+58700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19895	0	0
+Hi this is where you enter your steps
+58800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.19952	0	0
+Hi this is where you enter your steps
+58900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20009	0	0
+Hi this is where you enter your steps
+59000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20066	0	0
+Hi this is where you enter your steps
+59100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20123	0	0
+Hi this is where you enter your steps
+59200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2018	0	0
+Hi this is where you enter your steps
+59300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20237	0	0
+Hi this is where you enter your steps
+59400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20294	0	0
+Hi this is where you enter your steps
+59500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20351	0	0
+Hi this is where you enter your steps
+59600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20408	0	0
+Hi this is where you enter your steps
+59700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20465	0	0
+Hi this is where you enter your steps
+59800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20522	0	0
+Hi this is where you enter your steps
+59900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20579	0	0
+Hi this is where you enter your steps
+60000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20636	0	0
+Hi this is where you enter your steps
+60100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20693	0	0
+Hi this is where you enter your steps
+60200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2075	0	0
+Hi this is where you enter your steps
+60300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20807	0	0
+Hi this is where you enter your steps
+60400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20864	0	0
+Hi this is where you enter your steps
+60500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20921	0	0
+Hi this is where you enter your steps
+60600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.20978	0	0
+Hi this is where you enter your steps
+60700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21034	0	0
+Hi this is where you enter your steps
+60800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21091	0	0
+Hi this is where you enter your steps
+60900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21148	0	0
+Hi this is where you enter your steps
+61000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21205	0	0
+Hi this is where you enter your steps
+61100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21262	0	0
+Hi this is where you enter your steps
+61200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21319	0	0
+Hi this is where you enter your steps
+61300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21376	0	0
+Hi this is where you enter your steps
+61400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21433	0	0
+Hi this is where you enter your steps
+61500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2149	0	0
+Hi this is where you enter your steps
+61600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21547	0	0
+Hi this is where you enter your steps
+61700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21604	0	0
+Hi this is where you enter your steps
+61800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21661	0	0
+Hi this is where you enter your steps
+61900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21718	0	0
+Hi this is where you enter your steps
+62000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21775	0	0
+Hi this is where you enter your steps
+62100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21832	0	0
+Hi this is where you enter your steps
+62200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21889	0	0
+Hi this is where you enter your steps
+62300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.21946	0	0
+Hi this is where you enter your steps
+62400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22003	0	0
+Hi this is where you enter your steps
+62500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2206	0	0
+Hi this is where you enter your steps
+62600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22117	0	0
+Hi this is where you enter your steps
+62700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22174	0	0
+Hi this is where you enter your steps
+62800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22231	0	0
+Hi this is where you enter your steps
+62900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22288	0	0
+Hi this is where you enter your steps
+63000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22345	0	0
+Hi this is where you enter your steps
+63100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22402	0	0
+Hi this is where you enter your steps
+63200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22459	0	0
+Hi this is where you enter your steps
+63300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22516	0	0
+Hi this is where you enter your steps
+63400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22573	0	0
+Hi this is where you enter your steps
+63500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2263	0	0
+Hi this is where you enter your steps
+63600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22687	0	0
+Hi this is where you enter your steps
+63700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22744	0	0
+Hi this is where you enter your steps
+63800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22801	0	0
+Hi this is where you enter your steps
+63900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22858	0	0
+Hi this is where you enter your steps
+64000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22915	0	0
+Hi this is where you enter your steps
+64100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.22972	0	0
+Hi this is where you enter your steps
+64200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23029	0	0
+Hi this is where you enter your steps
+64300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23086	0	0
+Hi this is where you enter your steps
+64400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23143	0	0
+Hi this is where you enter your steps
+64500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.232	0	0
+Hi this is where you enter your steps
+64600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23257	0	0
+Hi this is where you enter your steps
+64700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23314	0	0
+Hi this is where you enter your steps
+64800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23371	0	0
+Hi this is where you enter your steps
+64900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23428	0	0
+Hi this is where you enter your steps
+65000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23485	0	0
+Hi this is where you enter your steps
+65100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23542	0	0
+Hi this is where you enter your steps
+65200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23599	0	0
+Hi this is where you enter your steps
+65300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23656	0	0
+Hi this is where you enter your steps
+65400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23713	0	0
+Hi this is where you enter your steps
+65500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2377	0	0
+Hi this is where you enter your steps
+65600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23827	0	0
+Hi this is where you enter your steps
+65700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23884	0	0
+Hi this is where you enter your steps
+65800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23941	0	0
+Hi this is where you enter your steps
+65900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.23998	0	0
+Hi this is where you enter your steps
+66000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24055	0	0
+Hi this is where you enter your steps
+66100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24112	0	0
+Hi this is where you enter your steps
+66200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24169	0	0
+Hi this is where you enter your steps
+66300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24226	0	0
+Hi this is where you enter your steps
+66400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24283	0	0
+Hi this is where you enter your steps
+66500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2434	0	0
+Hi this is where you enter your steps
+66600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24397	0	0
+Hi this is where you enter your steps
+66700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24454	0	0
+Hi this is where you enter your steps
+66800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24511	0	0
+Hi this is where you enter your steps
+66900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24568	0	0
+Hi this is where you enter your steps
+67000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24625	0	0
+Hi this is where you enter your steps
+67100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24682	0	0
+Hi this is where you enter your steps
+67200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24739	0	0
+Hi this is where you enter your steps
+67300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24796	0	0
+Hi this is where you enter your steps
+67400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24853	0	0
+Hi this is where you enter your steps
+67500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2491	0	0
+Hi this is where you enter your steps
+67600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.24967	0	0
+Hi this is where you enter your steps
+67700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25024	0	0
+Hi this is where you enter your steps
+67800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25081	0	0
+Hi this is where you enter your steps
+67900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25138	0	0
+Hi this is where you enter your steps
+68000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25195	0	0
+Hi this is where you enter your steps
+68100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25252	0	0
+Hi this is where you enter your steps
+68200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25309	0	0
+Hi this is where you enter your steps
+68300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25366	0	0
+Hi this is where you enter your steps
+68400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25423	0	0
+Hi this is where you enter your steps
+68500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2548	0	0
+Hi this is where you enter your steps
+68600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25537	0	0
+Hi this is where you enter your steps
+68700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25594	0	0
+Hi this is where you enter your steps
+68800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25651	0	0
+Hi this is where you enter your steps
+68900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25708	0	0
+Hi this is where you enter your steps
+69000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25765	0	0
+Hi this is where you enter your steps
+69100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25822	0	0
+Hi this is where you enter your steps
+69200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25879	0	0
+Hi this is where you enter your steps
+69300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25936	0	0
+Hi this is where you enter your steps
+69400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.25993	0	0
+Hi this is where you enter your steps
+69500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2605	0	0
+Hi this is where you enter your steps
+69600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26107	0	0
+Hi this is where you enter your steps
+69700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26164	0	0
+Hi this is where you enter your steps
+69800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26221	0	0
+Hi this is where you enter your steps
+69900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26278	0	0
+Hi this is where you enter your steps
+70000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26335	0	0
+Hi this is where you enter your steps
+70100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26392	0	0
+Hi this is where you enter your steps
+70200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26449	0	0
+Hi this is where you enter your steps
+70300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26506	0	0
+Hi this is where you enter your steps
+70400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26563	0	0
+Hi this is where you enter your steps
+70500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2662	0	0
+Hi this is where you enter your steps
+70600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26677	0	0
+Hi this is where you enter your steps
+70700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26734	0	0
+Hi this is where you enter your steps
+70800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26791	0	0
+Hi this is where you enter your steps
+70900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26848	0	0
+Hi this is where you enter your steps
+71000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26905	0	0
+Hi this is where you enter your steps
+71100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.26962	0	0
+Hi this is where you enter your steps
+71200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27019	0	0
+Hi this is where you enter your steps
+71300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27076	0	0
+Hi this is where you enter your steps
+71400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27132	0	0
+Hi this is where you enter your steps
+71500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27189	0	0
+Hi this is where you enter your steps
+71600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27246	0	0
+Hi this is where you enter your steps
+71700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27303	0	0
+Hi this is where you enter your steps
+71800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2736	0	0
+Hi this is where you enter your steps
+71900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27417	0	0
+Hi this is where you enter your steps
+72000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27474	0	0
+Hi this is where you enter your steps
+72100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27531	0	0
+Hi this is where you enter your steps
+72200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27588	0	0
+Hi this is where you enter your steps
+72300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27645	0	0
+Hi this is where you enter your steps
+72400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27702	0	0
+Hi this is where you enter your steps
+72500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27759	0	0
+Hi this is where you enter your steps
+72600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27816	0	0
+Hi this is where you enter your steps
+72700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27873	0	0
+Hi this is where you enter your steps
+72800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2793	0	0
+Hi this is where you enter your steps
+72900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.27987	0	0
+Hi this is where you enter your steps
+73000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28044	0	0
+Hi this is where you enter your steps
+73100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28101	0	0
+Hi this is where you enter your steps
+73200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28158	0	0
+Hi this is where you enter your steps
+73300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28215	0	0
+Hi this is where you enter your steps
+73400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28272	0	0
+Hi this is where you enter your steps
+73500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28329	0	0
+Hi this is where you enter your steps
+73600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28386	0	0
+Hi this is where you enter your steps
+73700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28443	0	0
+Hi this is where you enter your steps
+73800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.285	0	0
+Hi this is where you enter your steps
+73900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28557	0	0
+Hi this is where you enter your steps
+74000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28614	0	0
+Hi this is where you enter your steps
+74100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28671	0	0
+Hi this is where you enter your steps
+74200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28728	0	0
+Hi this is where you enter your steps
+74300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28785	0	0
+Hi this is where you enter your steps
+74400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28842	0	0
+Hi this is where you enter your steps
+74500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28899	0	0
+Hi this is where you enter your steps
+74600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.28956	0	0
+Hi this is where you enter your steps
+74700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29013	0	0
+Hi this is where you enter your steps
+74800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2907	0	0
+Hi this is where you enter your steps
+74900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29127	0	0
+Hi this is where you enter your steps
+75000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29184	0	0
+Hi this is where you enter your steps
+75100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29241	0	0
+Hi this is where you enter your steps
+75200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29298	0	0
+Hi this is where you enter your steps
+75300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29355	0	0
+Hi this is where you enter your steps
+75400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29412	0	0
+Hi this is where you enter your steps
+75500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29469	0	0
+Hi this is where you enter your steps
+75600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29526	0	0
+Hi this is where you enter your steps
+75700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29583	0	0
+Hi this is where you enter your steps
+75800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.2964	0	0
+Hi this is where you enter your steps
+75900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29697	0	0
+Hi this is where you enter your steps
+76000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29754	0	0
+Hi this is where you enter your steps
+76100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29811	0	0
+Hi this is where you enter your steps
+76200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29868	0	0
+Hi this is where you enter your steps
+76300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29925	0	0
+Hi this is where you enter your steps
+76400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.29982	0	0
+Hi this is where you enter your steps
+76500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30039	0	0
+Hi this is where you enter your steps
+76600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30096	0	0
+Hi this is where you enter your steps
+76700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30153	0	0
+Hi this is where you enter your steps
+76800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3021	0	0
+Hi this is where you enter your steps
+76900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30267	0	0
+Hi this is where you enter your steps
+77000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30324	0	0
+Hi this is where you enter your steps
+77100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30381	0	0
+Hi this is where you enter your steps
+77200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30438	0	0
+Hi this is where you enter your steps
+77300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30495	0	0
+Hi this is where you enter your steps
+77400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30552	0	0
+Hi this is where you enter your steps
+77500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30609	0	0
+Hi this is where you enter your steps
+77600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30666	0	0
+Hi this is where you enter your steps
+77700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30723	0	0
+Hi this is where you enter your steps
+77800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3078	0	0
+Hi this is where you enter your steps
+77900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30837	0	0
+Hi this is where you enter your steps
+78000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30894	0	0
+Hi this is where you enter your steps
+78100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.30951	0	0
+Hi this is where you enter your steps
+78200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31008	0	0
+Hi this is where you enter your steps
+78300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31065	0	0
+Hi this is where you enter your steps
+78400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31122	0	0
+Hi this is where you enter your steps
+78500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31179	0	0
+Hi this is where you enter your steps
+78600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31236	0	0
+Hi this is where you enter your steps
+78700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31293	0	0
+Hi this is where you enter your steps
+78800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3135	0	0
+Hi this is where you enter your steps
+78900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31407	0	0
+Hi this is where you enter your steps
+79000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31464	0	0
+Hi this is where you enter your steps
+79100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31521	0	0
+Hi this is where you enter your steps
+79200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31578	0	0
+Hi this is where you enter your steps
+79300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31635	0	0
+Hi this is where you enter your steps
+79400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31692	0	0
+Hi this is where you enter your steps
+79500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31749	0	0
+Hi this is where you enter your steps
+79600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31806	0	0
+Hi this is where you enter your steps
+79700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31863	0	0
+Hi this is where you enter your steps
+79800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3192	0	0
+Hi this is where you enter your steps
+79900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.31977	0	0
+Hi this is where you enter your steps
+80000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32034	0	0
+Hi this is where you enter your steps
+80100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32091	0	0
+Hi this is where you enter your steps
+80200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32148	0	0
+Hi this is where you enter your steps
+80300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32205	0	0
+Hi this is where you enter your steps
+80400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32262	0	0
+Hi this is where you enter your steps
+80500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32319	0	0
+Hi this is where you enter your steps
+80600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32376	0	0
+Hi this is where you enter your steps
+80700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32433	0	0
+Hi this is where you enter your steps
+80800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3249	0	0
+Hi this is where you enter your steps
+80900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32547	0	0
+Hi this is where you enter your steps
+81000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32604	0	0
+Hi this is where you enter your steps
+81100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32661	0	0
+Hi this is where you enter your steps
+81200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32718	0	0
+Hi this is where you enter your steps
+81300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32775	0	0
+Hi this is where you enter your steps
+81400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32832	0	0
+Hi this is where you enter your steps
+81500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32889	0	0
+Hi this is where you enter your steps
+81600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.32946	0	0
+Hi this is where you enter your steps
+81700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33003	0	0
+Hi this is where you enter your steps
+81800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3306	0	0
+Hi this is where you enter your steps
+81900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33117	0	0
+Hi this is where you enter your steps
+82000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33174	0	0
+Hi this is where you enter your steps
+82100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33231	0	0
+Hi this is where you enter your steps
+82200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33288	0	0
+Hi this is where you enter your steps
+82300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33345	0	0
+Hi this is where you enter your steps
+82400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33402	0	0
+Hi this is where you enter your steps
+82500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33459	0	0
+Hi this is where you enter your steps
+82600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33516	0	0
+Hi this is where you enter your steps
+82700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33573	0	0
+Hi this is where you enter your steps
+82800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3363	0	0
+Hi this is where you enter your steps
+82900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33687	0	0
+Hi this is where you enter your steps
+83000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33744	0	0
+Hi this is where you enter your steps
+83100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33801	0	0
+Hi this is where you enter your steps
+83200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33858	0	0
+Hi this is where you enter your steps
+83300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33915	0	0
+Hi this is where you enter your steps
+83400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.33972	0	0
+Hi this is where you enter your steps
+83500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34029	0	0
+Hi this is where you enter your steps
+83600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34086	0	0
+Hi this is where you enter your steps
+83700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34143	0	0
+Hi this is where you enter your steps
+83800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.342	0	0
+Hi this is where you enter your steps
+83900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34257	0	0
+Hi this is where you enter your steps
+84000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34314	0	0
+Hi this is where you enter your steps
+84100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34371	0	0
+Hi this is where you enter your steps
+84200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34428	0	0
+Hi this is where you enter your steps
+84300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34485	0	0
+Hi this is where you enter your steps
+84400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34542	0	0
+Hi this is where you enter your steps
+84500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34599	0	0
+Hi this is where you enter your steps
+84600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34656	0	0
+Hi this is where you enter your steps
+84700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34713	0	0
+Hi this is where you enter your steps
+84800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3477	0	0
+Hi this is where you enter your steps
+84900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34827	0	0
+Hi this is where you enter your steps
+85000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34884	0	0
+Hi this is where you enter your steps
+85100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34941	0	0
+Hi this is where you enter your steps
+85200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.34998	0	0
+Hi this is where you enter your steps
+85300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35055	0	0
+Hi this is where you enter your steps
+85400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35112	0	0
+Hi this is where you enter your steps
+85500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35169	0	0
+Hi this is where you enter your steps
+85600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35226	0	0
+Hi this is where you enter your steps
+85700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35283	0	0
+Hi this is where you enter your steps
+85800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3534	0	0
+Hi this is where you enter your steps
+85900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35397	0	0
+Hi this is where you enter your steps
+86000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35454	0	0
+Hi this is where you enter your steps
+86100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35511	0	0
+Hi this is where you enter your steps
+86200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35568	0	0
+Hi this is where you enter your steps
+86300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35625	0	0
+Hi this is where you enter your steps
+86400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35682	0	0
+Hi this is where you enter your steps
+86500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35739	0	0
+Hi this is where you enter your steps
+86600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35796	0	0
+Hi this is where you enter your steps
+86700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35853	0	0
+Hi this is where you enter your steps
+86800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3591	0	0
+Hi this is where you enter your steps
+86900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.35967	0	0
+Hi this is where you enter your steps
+87000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36024	0	0
+Hi this is where you enter your steps
+87100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36081	0	0
+Hi this is where you enter your steps
+87200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36138	0	0
+Hi this is where you enter your steps
+87300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36195	0	0
+Hi this is where you enter your steps
+87400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36252	0	0
+Hi this is where you enter your steps
+87500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36309	0	0
+Hi this is where you enter your steps
+87600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36366	0	0
+Hi this is where you enter your steps
+87700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36423	0	0
+Hi this is where you enter your steps
+87800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3648	0	0
+Hi this is where you enter your steps
+87900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36537	0	0
+Hi this is where you enter your steps
+88000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36594	0	0
+Hi this is where you enter your steps
+88100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36651	0	0
+Hi this is where you enter your steps
+88200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36708	0	0
+Hi this is where you enter your steps
+88300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36765	0	0
+Hi this is where you enter your steps
+88400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36822	0	0
+Hi this is where you enter your steps
+88500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36879	0	0
+Hi this is where you enter your steps
+88600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36936	0	0
+Hi this is where you enter your steps
+88700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.36993	0	0
+Hi this is where you enter your steps
+88800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3705	0	0
+Hi this is where you enter your steps
+88900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37107	0	0
+Hi this is where you enter your steps
+89000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37164	0	0
+Hi this is where you enter your steps
+89100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37221	0	0
+Hi this is where you enter your steps
+89200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37278	0	0
+Hi this is where you enter your steps
+89300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37335	0	0
+Hi this is where you enter your steps
+89400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37392	0	0
+Hi this is where you enter your steps
+89500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37449	0	0
+Hi this is where you enter your steps
+89600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37506	0	0
+Hi this is where you enter your steps
+89700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37563	0	0
+Hi this is where you enter your steps
+89800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3762	0	0
+Hi this is where you enter your steps
+89900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37677	0	0
+Hi this is where you enter your steps
+90000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37734	0	0
+Hi this is where you enter your steps
+90100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37791	0	0
+Hi this is where you enter your steps
+90200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37848	0	0
+Hi this is where you enter your steps
+90300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37905	0	0
+Hi this is where you enter your steps
+90400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.37962	0	0
+Hi this is where you enter your steps
+90500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38019	0	0
+Hi this is where you enter your steps
+90600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38076	0	0
+Hi this is where you enter your steps
+90700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38133	0	0
+Hi this is where you enter your steps
+90800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3819	0	0
+Hi this is where you enter your steps
+90900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38247	0	0
+Hi this is where you enter your steps
+91000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38304	0	0
+Hi this is where you enter your steps
+91100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38361	0	0
+Hi this is where you enter your steps
+91200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38418	0	0
+Hi this is where you enter your steps
+91300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38475	0	0
+Hi this is where you enter your steps
+91400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38532	0	0
+Hi this is where you enter your steps
+91500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38589	0	0
+Hi this is where you enter your steps
+91600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38646	0	0
+Hi this is where you enter your steps
+91700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38703	0	0
+Hi this is where you enter your steps
+91800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3876	0	0
+Hi this is where you enter your steps
+91900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38817	0	0
+Hi this is where you enter your steps
+92000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38874	0	0
+Hi this is where you enter your steps
+92100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38931	0	0
+Hi this is where you enter your steps
+92200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.38988	0	0
+Hi this is where you enter your steps
+92300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39045	0	0
+Hi this is where you enter your steps
+92400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39102	0	0
+Hi this is where you enter your steps
+92500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39159	0	0
+Hi this is where you enter your steps
+92600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39216	0	0
+Hi this is where you enter your steps
+92700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39273	0	0
+Hi this is where you enter your steps
+92800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.3933	0	0
+Hi this is where you enter your steps
+92900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39387	0	0
+Hi this is where you enter your steps
+93000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39444	0	0
+Hi this is where you enter your steps
+93100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39501	0	0
+Hi this is where you enter your steps
+93200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39558	0	0
+Hi this is where you enter your steps
+93300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39615	0	0
+Hi this is where you enter your steps
+93400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39672	0	0
+Hi this is where you enter your steps
+93500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39729	0	0
+Hi this is where you enter your steps
+93600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39786	0	0
+Hi this is where you enter your steps
+93700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39843	0	0
+Hi this is where you enter your steps
+93800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.399	0	0
+Hi this is where you enter your steps
+93900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.39957	0	0
+Hi this is where you enter your steps
+94000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40014	0	0
+Hi this is where you enter your steps
+94100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40071	0	0
+Hi this is where you enter your steps
+94200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40128	0	0
+Hi this is where you enter your steps
+94300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40185	0	0
+Hi this is where you enter your steps
+94400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40242	0	0
+Hi this is where you enter your steps
+94500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40299	0	0
+Hi this is where you enter your steps
+94600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40356	0	0
+Hi this is where you enter your steps
+94700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40413	0	0
+Hi this is where you enter your steps
+94800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4047	0	0
+Hi this is where you enter your steps
+94900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40527	0	0
+Hi this is where you enter your steps
+95000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40584	0	0
+Hi this is where you enter your steps
+95100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40641	0	0
+Hi this is where you enter your steps
+95200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40698	0	0
+Hi this is where you enter your steps
+95300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40755	0	0
+Hi this is where you enter your steps
+95400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40812	0	0
+Hi this is where you enter your steps
+95500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40869	0	0
+Hi this is where you enter your steps
+95600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40926	0	0
+Hi this is where you enter your steps
+95700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.40983	0	0
+Hi this is where you enter your steps
+95800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4104	0	0
+Hi this is where you enter your steps
+95900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41097	0	0
+Hi this is where you enter your steps
+96000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41154	0	0
+Hi this is where you enter your steps
+96100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41211	0	0
+Hi this is where you enter your steps
+96200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41268	0	0
+Hi this is where you enter your steps
+96300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41325	0	0
+Hi this is where you enter your steps
+96400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41382	0	0
+Hi this is where you enter your steps
+96500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41439	0	0
+Hi this is where you enter your steps
+96600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41496	0	0
+Hi this is where you enter your steps
+96700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41553	0	0
+Hi this is where you enter your steps
+96800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4161	0	0
+Hi this is where you enter your steps
+96900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41667	0	0
+Hi this is where you enter your steps
+97000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41724	0	0
+Hi this is where you enter your steps
+97100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41781	0	0
+Hi this is where you enter your steps
+97200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41838	0	0
+Hi this is where you enter your steps
+97300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41895	0	0
+Hi this is where you enter your steps
+97400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.41952	0	0
+Hi this is where you enter your steps
+97500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42009	0	0
+Hi this is where you enter your steps
+97600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42066	0	0
+Hi this is where you enter your steps
+97700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42123	0	0
+Hi this is where you enter your steps
+97800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4218	0	0
+Hi this is where you enter your steps
+97900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42237	0	0
+Hi this is where you enter your steps
+98000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42294	0	0
+Hi this is where you enter your steps
+98100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42351	0	0
+Hi this is where you enter your steps
+98200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42408	0	0
+Hi this is where you enter your steps
+98300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42465	0	0
+Hi this is where you enter your steps
+98400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42522	0	0
+Hi this is where you enter your steps
+98500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42579	0	0
+Hi this is where you enter your steps
+98600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42636	0	0
+Hi this is where you enter your steps
+98700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42693	0	0
+Hi this is where you enter your steps
+98800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4275	0	0
+Hi this is where you enter your steps
+98900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42807	0	0
+Hi this is where you enter your steps
+99000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42864	0	0
+Hi this is where you enter your steps
+99100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42921	0	0
+Hi this is where you enter your steps
+99200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.42978	0	0
+Hi this is where you enter your steps
+99300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43035	0	0
+Hi this is where you enter your steps
+99400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43092	0	0
+Hi this is where you enter your steps
+99500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43149	0	0
+Hi this is where you enter your steps
+99600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43206	0	0
+Hi this is where you enter your steps
+99700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43263	0	0
+Hi this is where you enter your steps
+99800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4332	0	0
+Hi this is where you enter your steps
+99900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43377	0	0
+Hi this is where you enter your steps
+100000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43434	0	0
+Hi this is where you enter your steps
+100100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43491	0	0
+Hi this is where you enter your steps
+100200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43548	0	0
+Hi this is where you enter your steps
+100300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43605	0	0
+Hi this is where you enter your steps
+100400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43662	0	0
+Hi this is where you enter your steps
+100500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43719	0	0
+Hi this is where you enter your steps
+100600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43776	0	0
+Hi this is where you enter your steps
+100700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43833	0	0
+Hi this is where you enter your steps
+100800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4389	0	0
+Hi this is where you enter your steps
+100900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.43947	0	0
+Hi this is where you enter your steps
+101000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44004	0	0
+Hi this is where you enter your steps
+101100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44061	0	0
+Hi this is where you enter your steps
+101200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44118	0	0
+Hi this is where you enter your steps
+101300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44175	0	0
+Hi this is where you enter your steps
+101400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44232	0	0
+Hi this is where you enter your steps
+101500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44289	0	0
+Hi this is where you enter your steps
+101600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44346	0	0
+Hi this is where you enter your steps
+101700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44403	0	0
+Hi this is where you enter your steps
+101800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4446	0	0
+Hi this is where you enter your steps
+101900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44517	0	0
+Hi this is where you enter your steps
+102000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44574	0	0
+Hi this is where you enter your steps
+102100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44631	0	0
+Hi this is where you enter your steps
+102200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44688	0	0
+Hi this is where you enter your steps
+102300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44745	0	0
+Hi this is where you enter your steps
+102400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44802	0	0
+Hi this is where you enter your steps
+102500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44859	0	0
+Hi this is where you enter your steps
+102600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44916	0	0
+Hi this is where you enter your steps
+102700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.44973	0	0
+Hi this is where you enter your steps
+102800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4503	0	0
+Hi this is where you enter your steps
+102900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45087	0	0
+Hi this is where you enter your steps
+103000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45144	0	0
+Hi this is where you enter your steps
+103100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45201	0	0
+Hi this is where you enter your steps
+103200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45258	0	0
+Hi this is where you enter your steps
+103300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45315	0	0
+Hi this is where you enter your steps
+103400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45372	0	0
+Hi this is where you enter your steps
+103500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45429	0	0
+Hi this is where you enter your steps
+103600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45486	0	0
+Hi this is where you enter your steps
+103700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45543	0	0
+Hi this is where you enter your steps
+103800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.456	0	0
+Hi this is where you enter your steps
+103900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45657	0	0
+Hi this is where you enter your steps
+104000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45714	0	0
+Hi this is where you enter your steps
+104100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45771	0	0
+Hi this is where you enter your steps
+104200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45828	0	0
+Hi this is where you enter your steps
+104300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45885	0	0
+Hi this is where you enter your steps
+104400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45942	0	0
+Hi this is where you enter your steps
+104500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.45999	0	0
+Hi this is where you enter your steps
+104600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46056	0	0
+Hi this is where you enter your steps
+104700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46113	0	0
+Hi this is where you enter your steps
+104800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4617	0	0
+Hi this is where you enter your steps
+104900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46227	0	0
+Hi this is where you enter your steps
+105000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46284	0	0
+Hi this is where you enter your steps
+105100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46341	0	0
+Hi this is where you enter your steps
+105200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46398	0	0
+Hi this is where you enter your steps
+105300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46455	0	0
+Hi this is where you enter your steps
+105400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46512	0	0
+Hi this is where you enter your steps
+105500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46569	0	0
+Hi this is where you enter your steps
+105600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46626	0	0
+Hi this is where you enter your steps
+105700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46683	0	0
+Hi this is where you enter your steps
+105800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4674	0	0
+Hi this is where you enter your steps
+105900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46797	0	0
+Hi this is where you enter your steps
+106000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46854	0	0
+Hi this is where you enter your steps
+106100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46911	0	0
+Hi this is where you enter your steps
+106200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.46968	0	0
+Hi this is where you enter your steps
+106300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47025	0	0
+Hi this is where you enter your steps
+106400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47082	0	0
+Hi this is where you enter your steps
+106500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47139	0	0
+Hi this is where you enter your steps
+106600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47196	0	0
+Hi this is where you enter your steps
+106700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47253	0	0
+Hi this is where you enter your steps
+106800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4731	0	0
+Hi this is where you enter your steps
+106900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47367	0	0
+Hi this is where you enter your steps
+107000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47424	0	0
+Hi this is where you enter your steps
+107100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47481	0	0
+Hi this is where you enter your steps
+107200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47538	0	0
+Hi this is where you enter your steps
+107300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47595	0	0
+Hi this is where you enter your steps
+107400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47652	0	0
+Hi this is where you enter your steps
+107500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47709	0	0
+Hi this is where you enter your steps
+107600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47766	0	0
+Hi this is where you enter your steps
+107700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47823	0	0
+Hi this is where you enter your steps
+107800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4788	0	0
+Hi this is where you enter your steps
+107900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47937	0	0
+Hi this is where you enter your steps
+108000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.47994	0	0
+Hi this is where you enter your steps
+108100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48051	0	0
+Hi this is where you enter your steps
+108200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48108	0	0
+Hi this is where you enter your steps
+108300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48165	0	0
+Hi this is where you enter your steps
+108400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48222	0	0
+Hi this is where you enter your steps
+108500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48279	0	0
+Hi this is where you enter your steps
+108600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48336	0	0
+Hi this is where you enter your steps
+108700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48393	0	0
+Hi this is where you enter your steps
+108800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4845	0	0
+Hi this is where you enter your steps
+108900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48507	0	0
+Hi this is where you enter your steps
+109000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48564	0	0
+Hi this is where you enter your steps
+109100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48621	0	0
+Hi this is where you enter your steps
+109200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48678	0	0
+Hi this is where you enter your steps
+109300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48735	0	0
+Hi this is where you enter your steps
+109400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48792	0	0
+Hi this is where you enter your steps
+109500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48849	0	0
+Hi this is where you enter your steps
+109600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48906	0	0
+Hi this is where you enter your steps
+109700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.48963	0	0
+Hi this is where you enter your steps
+109800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4902	0	0
+Hi this is where you enter your steps
+109900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49077	0	0
+Hi this is where you enter your steps
+110000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49134	0	0
+Hi this is where you enter your steps
+110100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49191	0	0
+Hi this is where you enter your steps
+110200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49248	0	0
+Hi this is where you enter your steps
+110300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49305	0	0
+Hi this is where you enter your steps
+110400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49362	0	0
+Hi this is where you enter your steps
+110500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49419	0	0
+Hi this is where you enter your steps
+110600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49476	0	0
+Hi this is where you enter your steps
+110700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49533	0	0
+Hi this is where you enter your steps
+110800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.4959	0	0
+Hi this is where you enter your steps
+110900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49647	0	0
+Hi this is where you enter your steps
+111000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49704	0	0
+Hi this is where you enter your steps
+111100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49761	0	0
+Hi this is where you enter your steps
+111200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49818	0	0
+Hi this is where you enter your steps
+111300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49875	0	0
+Hi this is where you enter your steps
+111400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49932	0	0
+Hi this is where you enter your steps
+111500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.49989	0	0
+Hi this is where you enter your steps
+111600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50046	0	0
+Hi this is where you enter your steps
+111700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50103	0	0
+Hi this is where you enter your steps
+111800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.5016	0	0
+Hi this is where you enter your steps
+111900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50217	0	0
+Hi this is where you enter your steps
+112000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50274	0	0
+Hi this is where you enter your steps
+112100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50331	0	0
+Hi this is where you enter your steps
+112200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50388	0	0
+Hi this is where you enter your steps
+112300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50445	0	0
+Hi this is where you enter your steps
+112400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50502	0	0
+Hi this is where you enter your steps
+112500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50559	0	0
+Hi this is where you enter your steps
+112600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50616	0	0
+Hi this is where you enter your steps
+112700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50673	0	0
+Hi this is where you enter your steps
+112800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.5073	0	0
+Hi this is where you enter your steps
+112900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50787	0	0
+Hi this is where you enter your steps
+113000	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50844	0	0
+Hi this is where you enter your steps
+113100	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50901	0	0
+Hi this is where you enter your steps
+113200	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.50958	0	0
+Hi this is where you enter your steps
+113300	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.51015	0	0
+Hi this is where you enter your steps
+113400	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.51072	0	0
+Hi this is where you enter your steps
+113500	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.51129	0	0
+Hi this is where you enter your steps
+113600	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.51186	0	0
+Hi this is where you enter your steps
+113700	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.51243	0	0
+Hi this is where you enter your steps
+113800	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.513	0	0
+Hi this is where you enter your steps
+113900	5.7	6.4	0.0	5.7	4.7	6.2	0.0	0.0	1	0	0.0	0.0	0.51357	0	0
+Hi this is where you enter your steps

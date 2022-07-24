@@ -1,0 +1,254 @@
+// Valve.class    This class defines all UI components,
+//                drawing routines and thermodynamic equations
+//                for the 'valve' component used throughout the
+//                DuressJ interface.
+//
+// Developed for:  University Of Toronto
+//                 Faculty of Applied Science and Engineering
+//                 Department of Mechanical and Industrial Engineering
+//                 Cognitive Engineering Laboratory
+//
+//    Written by:  Bruno Cosentino
+//                 &  Alex S. Ross
+//
+//   Last Update:  March 31, 1999
+//
+//
+
+import java.awt.*;
+import javax.swing.*;
+import javax.swing.border.*;
+import javax.swing.event.*;
+
+public class Valve extends Flow {
+
+   private double valveSetting;
+   private double valveOpening;
+   private double valveTimeConstant;
+   private double valveFault1Setpoint;
+   private int valveFault1Time;
+   private double valveFault2Setpoint;
+   private int valveFault2Time;
+   private ValveSliderCanvas valveSliderCanvas;
+   private JSlider valveSlider;
+   private ValveCanvas valveCanvas;
+   private MassFlowMeterCanvas massFlowMeterCanvas;
+   protected /*private*/ ValveLabelCanvas valveLabelCanvas;
+
+   public Valve(String name, double maxFlow, double initSet, double initFlow, double tC,
+                double fsp1, int ft1, double fsp2, int ft2) {
+      super(name, maxFlow);
+      valveSetting = initSet;
+      super.setMassFlowOut(initFlow);
+      valveOpening = initFlow;
+      valveTimeConstant = tC;
+      valveFault1Setpoint = fsp1;
+      valveFault1Time = ft1;
+      valveFault2Setpoint = fsp2;
+      valveFault2Time = ft2;
+      valveSliderCanvas = new ValveSliderCanvas(this, (int)getMaximumMassFlowOut());
+      valveSliderCanvas.setValveSlider((int)valveSetting);
+      valveCanvas = new ValveCanvas();
+      massFlowMeterCanvas = new MassFlowMeterCanvas(valveSetting, getMaximumMassFlowOut());
+      valveLabelCanvas = new ValveLabelCanvas(getMaximumMassFlowOut());
+      }
+
+   public final void calculateResistance(int t, int dt) {
+      double localSetting = valveSetting;
+
+      // check to see if valve is in one of the fault modes
+      if(valveFault2Time != Simulator.NEVER && valveFault2Time <= t)
+         localSetting = valveFault2Setpoint;
+      else if(valveFault1Time != Simulator.NEVER && valveFault1Time <= t)
+         localSetting = valveFault1Setpoint;
+
+      // calculate opening
+      valveOpening = max(0, min(valveOpening, getMaximumMassFlowOut()));
+
+      // add the derivative
+      valveOpening += (localSetting-valveOpening)*dt/valveTimeConstant;
+      }
+
+   public final void setMassFlowOut(double newMassOut) {
+      if(newMassOut >= 0) {
+         super.setMassFlowOut(newMassOut);
+         // update meter
+         massFlowMeterCanvas.setMeterSetting(newMassOut);
+         }
+      else {
+         super.setMassFlowOut(0);
+         // update meter
+         massFlowMeterCanvas.setMeterSetting(0);
+         }
+      }
+
+   public final void setValveSetting(double newSetting) {
+      valveSetting = newSetting;
+      }
+
+   public final double getValveSetting() {
+      return valveSetting;
+      }
+
+   public void setSlider(double newValue) {
+
+      if(Simulator.log_started)
+        Simulator.log.updateValve(newValue, super.getName());
+      valveSliderCanvas.setValveSlider((int)newValue);
+      }
+
+   public final double getValveOpening() {
+      return valveOpening;
+      }
+
+   public final ValveSliderCanvas getValveSliderCanvas() {
+      return valveSliderCanvas;
+      }
+
+   public final ValveCanvas getValveCanvas() {
+      return valveCanvas;
+      }
+
+   public final MassFlowMeterCanvas getMassFlowMeterCanvas() {
+      return massFlowMeterCanvas;
+      }
+
+   public final ValveLabelCanvas getValveLabelCanvas() {
+      return valveLabelCanvas;
+      }
+
+   }
+
+
+final class ValveSliderCanvas extends JPanel {
+
+   private JSlider valveSlider;
+   private Valve parent;
+
+   public ValveSliderCanvas(Valve p, int maxSet) {
+      parent = p;
+      setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
+      valveSlider = new JSlider(JSlider.VERTICAL, 0, maxSet*10, 0); //Signe: modified for precision
+      valveSlider.addChangeListener(new ChangeListener() {
+                                       public void stateChanged(ChangeEvent event) {
+                                          JSlider source = (JSlider)event.getSource();
+                                          if(!source.getValueIsAdjusting()) {
+                                             parent.setValveSetting((double)(source.getValue() / 10.0));
+                                             parent.setSlider((double)(source.getValue() / 10.0));
+                                             //Simulator.pLog.println("Valve " + parent.getName() + " Setting: " + source.getValue());
+                                             //Simulator.log.updateValve(source.getValue(), parent.getName());
+                                          }
+                                          }
+                                       });
+      valveSlider.setMajorTickSpacing(10*maxSet/2);
+      valveSlider.setMinorTickSpacing(10*maxSet/10);
+      valveSlider.setPaintTicks(true);
+      valveSlider.setPaintTrack(false);
+      valveSlider.setBorder(LineBorder.createBlackLineBorder());
+      add(valveSlider);
+      }
+
+   public final void setValveSlider(int newValue) {
+      valveSlider.setValue(newValue);
+      }
+
+   }
+
+
+final class ValveCanvas extends Canvas {
+
+   private Polygon leftTriangle;
+   private Polygon rightTriangle;
+
+   public void paint(Graphics g) {
+      int x = getSize().width;
+      int y = getSize().height;
+
+      g.fillOval(x/2-1, y/2-1, 3, 3);
+      g.drawLine(x/2, 0, x/2, y/2);
+      g.drawLine(0, y/2, x, y/2);
+      leftTriangle = new Polygon();
+      leftTriangle.addPoint(x/2, y/2);
+      leftTriangle.addPoint(0, y/8);
+      leftTriangle.addPoint(0, y*7/8);
+      rightTriangle = new Polygon();
+      g.fillPolygon(leftTriangle);
+      rightTriangle.addPoint(x/2+1, y/2);
+      rightTriangle.addPoint(x, y/8);
+      rightTriangle.addPoint(x, y*7/8);
+      g.fillPolygon(rightTriangle);
+      }
+
+   }
+
+
+final class MassFlowMeterCanvas extends Canvas {
+
+   private double setting;
+   private double maximum;
+
+   public MassFlowMeterCanvas(double initSetting, double max) {
+      setting = initSetting;
+      maximum = max;
+      }
+
+   public void paint(Graphics g) {
+      int x = getSize().width;
+      int y = getSize().height;
+
+      g.drawRect(0, 0, x*5/7, y*14/18);
+      // draw meter labels
+      g.setFont(new Font("SansSerif", Font.PLAIN, y/11));
+      g.drawString("" + (int)maximum, x*5/7+1, y*14/18-6-(y-y*4/18-18));
+      g.drawString("0", x*5/7+2, y*14/18-6);
+      // draw 'ticks' on the meter
+      for(int i=0; i<=10; i++)
+         if(i%5==0)
+            g.drawLine(x*4/7, y*14/18-9-i*(y-y*4/18-18)/10, x*5/7, y*14/18-9-i*(y-y*4/18-18)/10);
+         else
+            g.drawLine(x*9/14, y*14/18-9-i*(y-y*4/18-18)/10, x*5/7, y*14/18-9-i*(y-y*4/18-18)/10);
+      // draw 'pipe' underneath the meter
+      g.fillOval(x*3/7-1, y*16/18-1, 3, 3);
+      g.drawLine(x*3/7, y*14/18, x*3/7, y*16/18);
+      g.drawLine(0, y*16/18, x, y*16/18);
+      // draw the yellow massflow indicator bar
+      if(setting != 0) {
+         g.drawRect(x/7, (int)(y*14/18-9-setting*(y-y*4/18-18)/maximum)+1, x*2/7, (int)(setting*(y-y*4/18-18)/maximum)+1);
+         g.setColor(Simulator.COLOR_MASSFLOW);
+         g.fillRect(x/7+1, (int)(y*14/18-9-setting*(y-y*4/18-18)/maximum)+2, x*2/7-1, (int)(setting*(y-y*4/18-18)/maximum));
+         }
+      }
+
+   public final void setMeterSetting(double newSetting) {
+      int x = getSize().width;
+      int y = getSize().height;
+
+      if((int)(setting*(y-y*4/18-18)/maximum) != (int)(newSetting*(y-y*4/18-18)/maximum)) {
+         setting = newSetting;
+         repaint();
+         }
+      }
+
+   }
+
+
+/*final class ValveLabelCanvas extends Canvas {
+
+   private double maximum;
+
+   public ValveLabelCanvas(double max) {
+      maximum = max;
+      }
+
+   public void paint(Graphics g) {
+      int x = getSize().width;
+      int y = getSize().height;
+
+      g.setFont(new Font("SansSerif", Font.PLAIN, y/11));
+      g.drawString("" + (int)maximum, 1, y*14/18-6-(y-y*4/18-18));
+      g.drawString("0", 1, y*14/18-6);
+      g.drawLine(0, y*16/18, x, y*16/18);
+      }
+
+   }
+ */

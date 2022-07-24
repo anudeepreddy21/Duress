@@ -1,0 +1,250 @@
+##############################################################
+# Sample configuration file for iDURESS                      #
+#                                                            #
+#  + recommended values to change are marked with #*         #
+#  + use -1 as the fault time when no fault needed;          #
+#    all fault times are in minutes                          #
+#  + comments start with # and continue to the end of line   #
+#                                                            #
+##############################################################
+#
+# global values
+	0.1	#  simulation interval (sec)
+        5       #  steady time (min)
+        0       #  time after which steady state is checked (min)
+	1.5	#  temperature margin (C)
+	1	#  demand margin (kg/sec)
+
+#******************* Demand change *************************
+# change in demand for upper reservoir
+	dc1	#  the name
+	20	#  maximum demand (kg/sec)
+	4 	#* initial demand (kg/sec)
+	4 	#* initial demand (kg/sec)
+	0.1	#  time constant
+	0	#* demand when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* demand when fault 2 (0..maximum flow)
+	-1	#* time of fault 2
+# change in demand for lower reservoir
+	dc2	#  the name
+	20	#  maximum demand (kg/sec)
+	 3	#* initial demand (kg/sec)
+	 3	#* initial demand (kg/sec)
+	0.1	#  time constant
+	 0	#* demand when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* demand when fault 2 (0..maximum flow)
+	-1	#* time of fault 2
+
+#******************* Hidden heaters *************************
+# inflow
+	hh0	#  the heater name
+	50	#* maximum temperature (C)
+	10	#* initial temperature (C)
+	10	#* initial temperature (C)
+	15	#  time constant
+	 0	#* temperature when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* temperature when fault 2 (0..maximum flow)
+	-1	#* time of fault 2
+
+# reservoir 1
+	hh1	#  the heater name
+	2.09e6	#  max heat flow to reservoir 1 (W)
+	0	#  initial heat flow
+	0	#  initial heat flow
+	15	#  time constant
+	 0	#* heat flow when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* heat flow when fault 2 (0..maximum flow)
+	-1	#* time of fault 2
+
+# reservoir 2
+	hh2	#  the heater name
+	2.09e6	#  max heat flow to reservoir 2 (W)
+	0	#  initial heat flow
+	0	#  initial heat flow
+	15	#  time constant
+	 0	#* heat flow when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* heat flow when fault 2 (0..maximum flow)
+	-1	#* time of fault 2
+
+# ******************* Upper string **************************
+# pump PA
+	PA	#  the pump name
+	0	#* initial state (0: off, 1: on)
+	0.05	#  minimum flow through pump
+	10	#  maximum flow through pump (kg/sec)
+	5	#  time constant
+	-1	#* time of fault
+	5	#  time to blow up when valves are closed
+# valve VA
+	VA	#  the valve name
+	10	#  maximum flow through valve (kg/sec)
+	0	#* initial valve setting (0..maximum flow) 
+	0	#* initial flow thru valve (0..maximum flow)
+	5	#  time constant
+	0	#* valve setting when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* valve setting when fault 2 (0..maximum flow)
+	-1	#* time of fault 2
+# valve VA1
+	VA1	#  the valve name
+	10	#  maximum flow through valve (kg/sec)
+	0	#* initial valve setting (0..maximum flow)
+	0	#* initial flow thru valve (0..maximum flow)
+	5	#  time constant
+	0	#* valve setting when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* valve setting when fault 2 (0..maximum flow)
+	-1	#* time of fault 2
+# valve VA2
+	VA2	#  the valve name
+	10	#  maximum flow through valve (kg/sec)
+	0	#* initial valve setting (0..maximum flow)
+	0	#* initial flow thru valve (0..maximum flow)
+	5	#  time constant
+	0	#* valve setting when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* valve setting when fault 2 (0..maximum flow)
+	-1	#* time of fault 2
+# splitter
+	20	#  maximum flow through splitter (kg/sec)
+
+# ******************* Lower string **************************
+# pump PB
+	PB	#  the pump name
+	0	#* initial state (0, 1)
+	0.05	#  minimum flow through pump
+	10	#  maximum flow through pump (kg/sec)
+	5	#  time constant
+	-1	#* time of fault
+	5	#  time to blow up
+# valve VB
+	VB	#  the valve name
+	10	#  maximum flow through valve (kg/sec)
+	0	#* initial valve setting (0..maximum flow)
+	0	#* initial flow thru valve (0..maximum flow)
+	5	#  time constant1
+	0	#* valve setting when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* valve setting when fault 2 (0..maximum flow)
+	-1	#* time of fault 2
+# valve VB1
+	VB1	#  the valve name
+	10	#  maximum flow through valve
+	0	#* initial valve setting (0..maximum flow)
+	0	#* initial flow thru valve (0..maximum flow)
+	5	#  time constant
+	0	#* valve setting when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* valve setting when fault 2 (0..maximum flow)
+	-1	#* time of fault 2
+# valve VB2
+	VB2	#  the valve name
+	10	#  maximum flow through valve
+	0	#* initial valve setting (0..maximum flow)
+	0	#* initial flow thru valve (0..maximum flow)
+	5	#  time constant
+	0	#* valve setting when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* valve setting when fault 2 (0..maximum flow)
+	-1	#* time of fault 2
+# splitter
+	20	#  maximum flow through splitter (kg/sec)
+
+# ***********************************************************
+# upper heater
+	10	#  the maximum heater setting (0..inf)
+	0	#* initial heater setting (0..maximum setting)
+	0	#* initial heater output (0..maximum setting)
+	1.25e6	#  maximum heat flow from heater (W)
+	15	#  time constant
+	-1	#* time of fault
+	-1	#* output percentage when fault occurs
+
+# lower heater
+	10	#  the maximum heater setting (0..inf)
+	0	#* initial heater setting (0..maximum setting)
+	0	#* initial heater output (0..maximum setting)
+	1.25e6	#  maximum heat flow from heater (W)
+	15	#  time constant
+	-1	#* time of fault
+	-1	#* percentage of fault
+
+# ***********************************************************
+# upper reservoir
+Reservoir 1	#  the reservoir name
+	20	#  maximum water inflow (kg/sec)
+	20	#  maximum water outflow (kg/sec)
+	0	#* initial water level (m)
+	0.01	#  minimum water level
+	1	#  maximum water level
+	40	#* water demand temperature (C)
+	50	#  maximum water temperature
+	2.09e3	#  minimum energy inflow
+	2.09e6	#  maximum energy inflow
+	2.09e6	#  maximum energy outflow
+	0	#* initial energy stored in reservoir (J)
+	168e6	#  maximum energy stored in reservoir
+	1	#  tank area (m2)
+	1000	#  water density (kg/m3)
+	4.2e3	#  specific heat capacity of water (J/kg.C)
+	100	#  water boiling temperature (C)
+
+	0	#* additional water inflow (kg/s)
+		#  	>0: additional inflow, <0:leak
+	0	#* additional inflow temperature (C)
+		#	  needed when water inflow is > 0
+	-1	#* time of additional inflow fault
+	30	#  time for reservoir to blow up
+
+# lower tank
+Reservoir 2	#  the reservoir name
+	20	#  maximum water inflow (kg/sec)
+	20	#  maximum water outflow (kg/sec)
+	0	#  initial water level (m)
+	0.01	#  minimum water level
+	1	#  maximum water level
+	20	#* water demand temperature (C)
+	50	#  maximum water temperature
+	2.09e3	#  minimum energy inflow
+	2.09e6	#  maximum energy inflow
+	2.09e6	#  maximum energy outflow
+	0	#* initial energy stored in reservoir (J)
+	168e6	#  maximum energy stored in reservoir
+	1	#  tank area (m2)
+	1000	#  water density (kg/m3)
+	4.2e3	#  specific heat capacity of water (J/kg.C)
+	100	#  water boiling temperature (C)
+
+	0	#* additional water inflow (kg/s)
+		#	  >0: additional inflow, <0:leak
+	0	#* additional inflow temperature (C)
+		#	  needed when water inflow is > 0
+	-1	#* time of additional inflow fault
+	30	#  time for reservoir to blow up
+
+# ***********************************************************
+# valve VO1
+	VO1	#  the valve name
+	20	#  maximum flow through valve (kg/sec)
+	0	#* initial valve setting (0..maximum flow)
+	0	#* initial flow through valve (0..maximum flow)
+	5	#  time constant
+	0	#* valve setting when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* valve setting when fault 2 (0..maximum flow)
+	-1	#* time of fault 2
+# valve VO2
+	VO2	#  the valve name
+	20	#  maximum flow through valve (kg/sec)
+	0	#* initial valve setting (0..maximum flow)
+	0	#* initial flow through valve (0..maximum flow)
+	5	#  time constant
+	0	#* valve setting when fault 1 (0..maximum flow)
+	-1	#* time of fault 1
+	0	#* valve setting when fault 2 (0..maximum flow)
+	-1	#* time of fault 2

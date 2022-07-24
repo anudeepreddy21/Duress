@@ -1,0 +1,29 @@
+/*
+ * ValveLabelCanvas.java
+ *
+ * Created on January 29, 2003, 6:11 PM
+ */
+
+/**
+ *
+ * @author  Administrator
+ */
+class ValveLabelCanvas extends Canvas {
+
+   private double maximum;
+
+   public ValveLabelCanvas(double max) {
+      maximum = max;
+      }
+
+   public void paint(Graphics g) {
+      int x = getSize().width;
+      int y = getSize().height;
+
+      g.setFont(new Font("SansSerif", Font.PLAIN, y/11));
+      g.drawString("" + (int)maximum, 1, y*14/18-6-(y-y*4/18-18));
+      g.drawString("0", 1, y*14/18-6);
+      g.drawLine(0, y*16/18, x, y*16/18);
+      }
+
+   }

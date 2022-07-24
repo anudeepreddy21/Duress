@@ -1,0 +1,139 @@
+//  DuressJ v1.0:  Java version of the DuressII ThermoDynamic Simulator
+//
+// Developed for:  University Of Toronto
+//                 Faculty of Applied Science and Engineering
+//                 Department of Mechanical and Industrial Engineering
+//                 Cognitive Engineering Laboratory
+//
+//    Written by:  Bruno Cosentino
+//
+//   Last Update:  March 31, 1999
+//
+//          Note:  'makeMenu' adapted from
+//                 Cay S. Horstmann & Gary Cornell, Core Java
+//                 Published By Sun Microsystems Press/Prentice-Hall
+//                 Copyright (C) 1997 Sun Microsystems Inc.
+
+import java.awt.*;
+import java.awt.event.*;
+import java.io.*;
+
+public class DuressJ extends Frame implements ActionListener {
+
+    private MenuBar mainMenu = new MenuBar();
+    private Simulator simulator;
+    private Toolkit toolkit = Toolkit.getDefaultToolkit();
+    //Signe: static log member, so that it can be updated by other classes.
+    public static Log log;
+
+    public static void main(String[] args) {
+        Frame mainScreen = new DuressJ();
+        mainScreen.setBounds(0, 0, 800, 600);
+        mainScreen.setTitle("DuressJ");
+        mainScreen.show();
+        mainScreen.toFront();
+    }
+
+    public DuressJ() {
+        mainMenu.add(makeMenu("File", new Object[] {"Load Scenario...", null, "Exit"}, this));
+        mainMenu.add(makeMenu("Simulator", new Object[] {"Start", null, "Pause", "Resume"}, this));
+        mainMenu.add(makeMenu("Interface", new Object[] {"Physical", null, "Physical + Functional", null,
+            makeMenu("Multi-Level", new Object[] {"Settings Level", "Flows Level", "Principles Level", "Goals Level"}, this)},
+                              this));
+        mainMenu.add(makeMenu("Experiment", new Object[]{"Trial Info"}, this));
+        setMenuBar(mainMenu);
+        //      splash("DuressJ.gif");
+        simulator = new Simulator();
+        add(simulator);
+    }
+
+    public final void splash(String imageName) {
+        Window splashScreen = new Window(this);
+        ImageCanvas canvas = new ImageCanvas(toolkit.getImage(imageName));
+        Dimension screenSize = toolkit.getScreenSize();
+        Dimension splashSize = canvas.getPreferredSize();
+        splashScreen.add(canvas, "Center");
+        splashScreen.setLocation(screenSize.width/2 - splashSize.width/2,
+                                 screenSize.height/2 - splashSize.height/2);
+        splashScreen.setSize(splashSize);
+        splashScreen.show();
+        splashScreen.toFront();
+        try {
+            Thread.currentThread().sleep(5000);
+        }
+        catch(Exception e) {
+            e.printStackTrace();
+        }
+        splashScreen.dispose();
+    }
+
+    public void actionPerformed(ActionEvent event) {
+        MenuItem c = (MenuItem)event.getSource();
+        String arg = c.getLabel();
+
+        System.out.println(arg);
+        //log.write(arg);
+        if(arg.equals("Load Scenario...")) {
+            simulator.stop();
+            remove(simulator);
+            simulator = null;
+            System.gc();
+            System.runFinalization();
+            simulator = new Simulator();
+            add(simulator);
+            invalidate();
+            validate();
+            repaint();
+        }
+        else if(arg.equals("Exit"))
+            System.exit(0);
+        else if(arg.equals("Start"))
+            simulator.start();
+        else if(arg.equals("Pause"))
+            simulator.pause();
+        else if(arg.equals("Resume"))
+            simulator.resume();
+        else if(arg.equals("Physical"))
+            simulator.changeUserInterface(Simulator.PHYSICAL);
+        else if(arg.equals("Physical + Functional"))
+            simulator.changeUserInterface(Simulator.PHYSICALandFUNCTIONAL);
+        else if(arg.equals("Settings Level"))
+            simulator.changeUserInterface(Simulator.SETTINGS);
+        else if(arg.equals("Flows Level"))
+            simulator.changeUserInterface(Simulator.FLOWS);
+        else if(arg.equals("Principles Level"))
+            simulator.changeUserInterface(Simulator.PRINCIPLES);
+        else if(arg.equals("Goals Level"))
+            simulator.changeUserInterface(Simulator.GOALS);
+        else if(arg.equals("Trial Info"))
+            simulator.openParameterDialog();
+    }
+
+    private static Menu makeMenu(Object parent, Object[] items, Object target) {
+        Menu m = null;
+        if (parent instanceof Menu)
+            m = (Menu)parent;
+        else if (parent instanceof String)
+            m = new Menu((String)parent);
+        else
+            return null;
+        for (int i = 0; i < items.length; i++) {
+            if (items[i] instanceof String) {
+                MenuItem mi = new MenuItem((String)items[i]);
+                if (target instanceof ActionListener)
+                    mi.addActionListener((ActionListener)target);
+                m.add(mi);
+            }
+            else if (items[i] instanceof MenuItem) {
+                MenuItem mi = (MenuItem)items[i];
+                if (target instanceof ActionListener)
+                    mi.addActionListener((ActionListener)target);
+                m.add(mi);
+            }
+            else if (items[i] == null)
+                m.addSeparator();
+        }
+        return m;
+    }
+
+}

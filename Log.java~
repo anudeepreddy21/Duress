@@ -1,0 +1,283 @@
+
+// Log.class  This class defines a log file for recording the changes
+//		made by users of the software.
+//		
+//
+//    Written by: Signe Bray
+//		  Advanced Interface Design Lab
+//		  University of Waterloo
+//
+//    Date: April, 2003
+//
+//
+
+import java.io.*;
+import java.util.*;
+import java.util.Date.*;
+import java.text.NumberFormat.*;
+
+
+public class Log {
+
+    //log file members
+    public FileOutputStream log;
+    public PrintStream pLog;
+   // public boolean logTime;
+
+    //data members to be logged
+
+    //settings
+    String scenario;
+    int interfaceType;
+    
+    //valves
+    private double valveVASetting;
+    private double valveVA1Setting;
+    private double valveVA2Setting;
+
+    private double valveVBSetting;
+    private double valveVB1Setting;
+    private double valveVB2Setting;
+
+    private double valveVO1Setting;
+    private double valveVO2Setting;
+
+    //heaters
+    private double heaterH1Setting;
+    private double heaterH2Setting;
+    
+    //pumps
+    private boolean pumpPASetting;
+    private boolean pumpPBSetting;
+    
+    //reservoirs
+    private double reservoirR1Level;
+    private double reservoirR2Level;
+
+    //state
+    private int steadyTime;
+    
+    //time
+    private int time;
+
+    private boolean firstTime = true;
+
+    //should log be created with initial values of all elements??
+    public Log(String name, String trial, String initScenario, int initIf, double initVA, double initVA1, double initVA2, double initVB, double initVB1, double initVB2, double initVO1, double initVO2, boolean initPA, boolean initPB, double initH1, double initH2, double initR1, double initR2) {
+
+
+        //create log file and write header
+        try {
+
+            String filename = "/Users/signebray/Desktop/log_"+name+"_"+trial+".txt";
+                log = new FileOutputStream(filename);
+                pLog = new PrintStream(log);
+
+            
+        }
+        catch (IOException e) {
+            System.out.println("ERROR CREATING LOG FILE\n");
+            e.printStackTrace();
+        }
+
+        //initialise members
+
+        //settings
+        scenario = initScenario;
+        interfaceType = initIf;
+        
+        //valves
+        valveVASetting = initVA;
+        valveVA1Setting = initVA1;
+        valveVA2Setting = initVA2;
+
+        valveVBSetting = initVB;
+        valveVB1Setting = initVB1;
+        valveVB2Setting = initVB2;
+
+        valveVO1Setting = initVO1;
+        valveVO2Setting = initVO2;
+
+        //pumps
+        pumpPASetting = initPA;
+        pumpPBSetting = initPB;
+
+        //heaters
+        heaterH1Setting = initH1;
+        heaterH2Setting = initH2;
+            
+        //reservoirs
+        reservoirR1Level = initR1;
+        reservoirR2Level = initR2;
+
+        pLog.println("DURESS SIMULATION LOGFILE\n");
+        pLog.println("-------------------------\n");
+        pLog.println("Date: " + (new Date()).toString() + "\n");
+        pLog.println("Subject: " + name + "\nTrial #: " + trial + "\n");
+        pLog.println("Scenario: " + scenario + "\n");
+
+        String ifString = "";
+        switch(interfaceType)
+        {
+            case(0):
+                ifString = "Physical\n";
+                break;
+            case(1):
+                ifString = "Physical + Functional\n";
+                break;
+            case(2):
+                ifString = "Settings";
+                break;
+            case(3):
+                ifString = "Flows";
+                break;
+            case(4):
+                ifString = "Principles";
+                break;
+            case(5):
+                ifString = "Goals";
+                break;
+        }
+        pLog.println("Interface Type: " + ifString);
+    
+        
+
+    }
+
+    //methods to modify values
+    public void updateValve(double newSetting, String valveName) {
+
+        if(valveName.equals("VA"))
+            valveVASetting = newSetting;
+        else if( valveName.equals("VA1"))
+            valveVA1Setting =newSetting;
+        else if(valveName.equals("VA2"))
+            valveVA2Setting = newSetting;
+        else if(valveName.equals("VB"))
+            valveVBSetting = newSetting;
+        else if( valveName.equals("VB1"))
+            valveVB1Setting =newSetting;
+        else if(valveName.equals("VB2"))
+            valveVB2Setting = newSetting;
+        else if( valveName.equals("Reservoir 1"))
+            valveVO1Setting =newSetting;
+        else if(valveName.equals("Reservoir 2"))
+            valveVO2Setting = newSetting;
+        else
+            System.out.println("ERROR UPDATING VALVE "+valveName);
+        
+    }
+
+    public void updatePump(boolean newState, String pumpName) {
+
+        if(pumpName.equals("PA")) 
+            pumpPASetting = newState;
+        else if(pumpName.equals("PB"))
+            pumpPBSetting = newState;
+        else
+            System.out.println("ERROR UPDATING PUMP STATE\n");
+            
+    }
+
+    public void updateHeater(double newSetting, String heaterName) {
+
+        if(heaterName.equals("H1"))
+            heaterH1Setting = newSetting;
+        else if( heaterName.equals("H2"))
+            heaterH2Setting =newSetting;
+        else
+            System.out.println("ERROR UPDATING HEATER "+ heaterName);
+
+    }
+
+public void updateWaterLevel(double newLevel, String resName) {
+
+    if(resName.equals("Reservoir 1"))
+        reservoirR1Level = newLevel;
+    else if( resName.equals("Reservoir 2"))
+        reservoirR2Level =newLevel;
+    else
+        System.out.println("ERROR UPDATING RESERVOIR "+ resName);
+
+}
+
+public void updateState(int time)
+{
+    steadyTime = time;
+}
+
+public void setScenario(String newScenario){
+
+    scenario = newScenario;
+    pLog.println("NEW Scenario: " + scenario + "\n");
+}
+
+public void setIfType(int newIf) {
+
+    interfaceType = newIf;
+    String ifString = "";
+    switch(interfaceType)
+    {
+        case(0):
+            ifString = "Physical\n";
+            break;
+        case(1):
+            ifString = "Physical + Functional\n";
+            break;
+        case(2):
+            ifString = "Settings";
+            break;
+        case(3):
+            ifString = "Flows";
+            break;
+        case(4):
+            ifString = "Principles";
+            break;
+        case(5):
+            ifString = "Goals";
+            break;
+    }
+    pLog.println("NEW Interface Type: " + ifString);
+    
+}
+
+
+    //output method
+    public void writeLog(int newTime) {
+
+        
+        time = newTime;
+
+        java.text.NumberFormat nf = java.text.NumberFormat.getInstance();
+        nf.setMaximumFractionDigits(5);
+
+        if(firstTime)
+        {
+            pLog.println("-------------------------\n");
+            pLog.println("Time\tVA\tVA1\tVA2\tVB\tVB1\tVB2\tVO1\tVO2\tPA\tPB\tH1\tH2\tR1\tR2\tSteadyTime");
+            firstTime = false;
+        }
+        
+        pLog.println(time +"\t"+ valveVASetting +"\t"+ valveVA1Setting +"\t"+ valveVA2Setting+"\t"+ valveVBSetting +"\t"+ valveVB1Setting +"\t"+ valveVB2Setting+"\t"+ valveVO1Setting +"\t"+ valveVO2Setting+"\t"+ (pumpPASetting?1:0) +"\t"+ (pumpPBSetting?1:0) +"\t"+ heaterH1Setting +"\t"+ heaterH2Setting+"\t"+ nf.format(reservoirR1Level) +"\t"+ nf.format(reservoirR2Level) +"\t"+steadyTime);
+
+    }
+
+public void endSimulation(String message) {
+
+    pLog.println("TERMINATION: " + message + "\n");
+
+    try {
+        log.close();
+    }
+    catch (IOException e) {
+        System.out.println("ERROR CLOSING LOG FILE\n");
+        e.printStackTrace();
+    }
+    
+    }
+
+public void writeNameTrial(String name, String trial) {
+
+    pLog.println("Subject: " + name + "\nTrial #: " + trial + "\n");
+}
+}
