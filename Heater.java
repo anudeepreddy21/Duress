@@ -139,6 +139,8 @@ final class HeaterCanvas extends Canvas {
    }
 
 
+
+
 final class HeaterSliderCanvas extends JPanel {
 
    private JSlider heaterSlider;
